@@ -29,7 +29,7 @@ void bubble_sort(int *array, size_t size)
 				print_array(array, size);
 			}
 		}
-		k = 0;
+		/*k = 0;*/
 	}
 
 }
